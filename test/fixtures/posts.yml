@@ -2,8 +2,8 @@
 
 one:
   titulo: MyString
-  conteudo: 
+  conteudo: MyText
 
 two:
   titulo: MyString
-  conteudo: 
+  conteudo: MyText
